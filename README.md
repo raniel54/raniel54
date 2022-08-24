@@ -20,5 +20,5 @@
 
 <a href="https://www.instagram.com/o_raniel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/raniel-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "ranielsilva65@hotmail.com"><img src="https://img.shields.io/badge/Outlook-4836d1?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+<a href = "ranielsilva65@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-4836d1?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
