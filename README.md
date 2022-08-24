@@ -1,12 +1,12 @@
-## Olá, Meu nome é Raniel ! 
-### Seja Bem vindo ao meu perfil GitHub 👋
+## Olá, Me chamo Raniel ! 
+#### Seja Bem vindo ao meu perfil GitHub 👋
 
 - 📖 Atualmente  estudando 
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
-- ☞ Procuro me tornar um desenvolvedor Front-End.♛
+- ☞ Me tornando um desenvolvedor Front-End.♛
 
 <div>
 <a href="https://github.com/raniel54">
