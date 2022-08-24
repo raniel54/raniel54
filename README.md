@@ -1,5 +1,5 @@
-## Olá, me chamo Raniel ! 
-### Bem vindo ao meu perfil GitHub 👋
+## Olá, Meu nome é Raniel ! 
+### Seja Bem vindo ao meu perfil GitHub 👋
 
 - 📖 Atualmente estou estudando 
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
