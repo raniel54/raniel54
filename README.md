@@ -13,7 +13,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniel54&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raniel54&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- 
+ <br>
 ### Contatos:
 
 <div>
@@ -22,4 +22,4 @@
 <a href="https://www.linkedin.com/in/raniel-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "ranielsilva65@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-4836d1?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-<br>
+
