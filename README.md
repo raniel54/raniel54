@@ -23,4 +23,3 @@
 <a href = "ranielsilva65@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-4836d1?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 <br>
-![Snake animation](https://github.com/raniel54/raniel54/blob/output/github-contribution-grid-snake.svg)
