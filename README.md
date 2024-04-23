@@ -19,7 +19,7 @@
 </div> 
  
 ### Main skills:
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)&nbsp;
+![HTML]<img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
  
